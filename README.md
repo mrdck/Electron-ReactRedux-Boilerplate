@@ -1,7 +1,7 @@
 ### About 
 A Boilerplate for building desktop application based on Electron , React , React-Redux.
 
-[Imgur](http://i.imgur.com/zlWniUI.png)
+![Imgur](http://i.imgur.com/zlWniUI.png)
 
 ### Install
 
